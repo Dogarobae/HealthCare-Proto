@@ -1,0 +1,18 @@
+Correr en bash
+
+cd C:\Users\olive\Downloads\proyecto\receta-api
+gradlew.bat bootRun
+
+http://localhost:8080
+
+cd C:\Users\olive\Downloads\proyecto\receta-frontend
+npm run dev
+
+http://localhost:5173
+
+Para cerrarlo, en la terminal donde está corriendo:
+Ctrl + C
+
+Claves:
+Admin
+admin123
